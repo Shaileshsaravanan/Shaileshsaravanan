@@ -2,7 +2,6 @@
 <h3 align="center">I'm a passionate Amateur Developer and a Student.</h3>
 
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<742317800688713758>)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaileshsaravanan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
