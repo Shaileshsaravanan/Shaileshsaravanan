@@ -2,6 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shailesh</h1>
 <h3 align="center">I'm a passionate Amateur Developer and a Student.</h3>
 
+## 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on **Set Discord Activity Extension**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
