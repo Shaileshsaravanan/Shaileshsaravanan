@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Amateur Developer and a Student.</h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaileshsaravanan)](https://github.com/anuraghazra/github-readme-stats)
+<stats align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaileshsaravanan)](https://github.com/anuraghazra/github-readme-stats)</stats>
 
 <!---
 Shaileshsaravanan/Shaileshsaravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
