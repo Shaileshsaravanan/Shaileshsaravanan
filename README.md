@@ -12,10 +12,12 @@
 
 - 📫 How to reach me **shaileshsaravanan385@gmail.com**
 
-- 👨‍💻 My Discord - [![Discord Presence](https://lanyard.cnrad.dev/api/742317800688713758
-                            )](https://discord.com/users/742317800688713758)
-
 - ⚡ Fun fact **I play games**
+
+## 👨‍💻 Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/742317800688713758
+                            )](https://discord.com/users/742317800688713758)
 
 [![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaileshsaravanan)](https://github.com/anuraghazra/github-readme-stats)
 
