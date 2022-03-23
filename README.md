@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **shaileshsaravanan385@gmail.com**
 
-- 👨‍💻 My Discord - [![Discord Presence](https://lanyard.cnrad.dev/api/742317800688713758)](https://discord.com/users/742317800688713758)
+- 👨‍💻 My Discord - [![Discord Presence](https://lanyard.cnrad.dev/api/742317800688713758
+                            )](https://discord.com/users/742317800688713758)
 
 - ⚡ Fun fact **I play games**
 
