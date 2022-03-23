@@ -1,10 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shailesh</h1>
+<h3 align="center">I'm a passionate Amateur Developer and a Student.</h3>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<742317800688713758>)
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<@742317800688713758>)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaileshsaravanan)](https://github.com/anuraghazra/github-readme-stats)
 
