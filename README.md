@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Set Discord Activity Extension**
+- 🔭 I’m currently working on **[CS50AI](https://github.com/Shaileshsaravanan/CS50AI)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
