@@ -25,3 +25,8 @@
 Shaileshsaravanan/Shaileshsaravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div style="text-align:center;">
+    <h1 style="color: #3B82F6; font-size: 2rem; font-weight: bold;">Welcome to My Project</h1>
+    <p style="font-size: 1.125rem; color: #374151;">This is an example of inline styles inspired by Tailwind CSS.</p>
+</div>
