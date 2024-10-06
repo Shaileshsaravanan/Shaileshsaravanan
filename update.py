@@ -93,7 +93,7 @@ print(f"Lines of Code: {total_lines_of_code}")
 def create_terminal_svg(output_file, title, body_content):
     dwg = svgwrite.Drawing(output_file, profile='tiny', size=(600, 400))
 
-    dwg.add(dwg.rect(insert=(0, 0), size=('100%', '100%'), fill='none', rx=10, ry=10)) 
+    dwg.add(dwg.rect(insert=(0, 0), size=('100%', '100%'), fill='#1E1E1E', rx=10, ry=10))
     dwg.add(dwg.rect(insert=(0, 0), size=('100%', '40'), fill='#2E2E2E', rx=10, ry=10))
 
     button_colors = ['#FF5F56', '#FFBD2E', '#27C93F']
