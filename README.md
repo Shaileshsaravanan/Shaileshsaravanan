@@ -1,32 +1,16 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shailesh</h1>
-<h3 align="center">I'm a passionate Amateur Developer and a Student.</h3>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[CS50AI](https://github.com/Shaileshsaravanan/CS50AI)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate 
-
-- 📫 How to reach me **shaileshsaravanan385@gmail.com**
-
-- ⚡ Fun fact **I play games**
-
-## 👨‍💻 Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/742317800688713758
-                            )](https://discord.com/users/742317800688713758)
-
-[![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaileshsaravanan)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-Shaileshsaravanan/Shaileshsaravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div style="text-align:center;">
-    <h1 style="color: #3B82F6; font-size: 2rem; font-weight: bold;">Welcome to My Project</h1>
-    <p style="font-size: 1.125rem; color: #374151;">This is an example of inline styles inspired by Tailwind CSS.</p>
+<div style="margin: 0; padding: 10px; font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;">
+    <div class="terminal" style="width: 100%; height: 100vh; background-color: #1E1E1E; color: #C0C0C0; box-sizing: border-box; border-radius: 10px;">
+        <div class="terminal-header" style="display: flex; align-items: center; justify-content: space-between; background-color: #2E2E2E; padding: 5px 10px; color: #C0C0C0; border-top-left-radius: 10px; border-top-right-radius: 10px;">
+            <div class="buttons" style="display: flex; gap: 5px;">
+                <div class="button close" style="width: 12px; height: 12px; border-radius: 50%; background-color: #FF5F56;"></div>
+                <div class="button minimize" style="width: 12px; height: 12px; border-radius: 50%; background-color: #FFBD2E;"></div>
+                <div class="button maximize" style="width: 12px; height: 12px; border-radius: 50%; background-color: #27C93F;"></div>
+            </div>
+            <div class="title" style="flex-grow: 1; text-align: center; font-size: 14px;">shaileshsaravanan -- -zsh -- 80x24</div>
+        </div>
+        <div class="terminal-body" style="padding: 10px; font-size: 14px; line-height: 1.5;">
+            Last login: Sat Oct  5 17:17:29 on console<br>
+            shaileshsaravanan@Shaileshs-MacBook-Air ~ %
+        </div>
+    </div>
 </div>
