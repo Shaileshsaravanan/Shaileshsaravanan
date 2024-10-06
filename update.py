@@ -173,7 +173,7 @@ Kernel: 11th Grade
 IDE: Visual Studio Code
 
 Languages.Programming: Python, Javascript, C++
-Languages.Computer: HTML, CSS, JSON, XML, YAML, Markdown
+Languages.Computer: HTML, CSS, Tailwind, JSON, XML, YAML, Markdown
 
 Repos: {total_repos}
 Commits: {total_commits}
