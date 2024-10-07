@@ -5,8 +5,6 @@ on:
     branches:
       - main
   workflow_dispatch:
-  schedule:
-    - cron: '30 18 * * *'
 
 jobs:
   generate-svg:
@@ -31,7 +29,7 @@ jobs:
 
       - name: Run the script
         env:
-          GH_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
+          GH_PRIVATE_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
           GH_OWNER: ${{ secrets.GH_OWNER }}
         run: |
           python update.py
@@ -44,4 +42,4 @@ jobs:
           git commit -m "Update generated files" || echo "No changes to commit"
           git push
         env:
-          GH_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
+          GH_PRIVATE_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
