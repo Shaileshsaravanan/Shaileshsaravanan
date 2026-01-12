@@ -62,7 +62,7 @@ Feel free to `ping` me anytime via these ports:
 
 - [LinkedIn](https://www.linkedin.com/in/notshailesh/)
 - [Instagram](https://www.instagram.com/ssh_shailesh/)
-- [Personal Website](https://notshailesh.com)
+- [Personal Website](https://shailesh.icu)
   
 ```bash
 $ curl -X POST https://www.linkedin.com/in/notshailesh/ -d "Let's connect!"
